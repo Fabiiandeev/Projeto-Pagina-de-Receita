@@ -1,13 +1,4 @@
-h1{
-    color: brown;
-    font-size: 60px;
-    letter-spacing: 2;
-    text-transform: uppercase;
-};
+img {
+    border-radius: 16px;
 
-section{
-    background-color: lightblue;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 10px;
 }
