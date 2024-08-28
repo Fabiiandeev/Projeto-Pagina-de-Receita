@@ -1,5 +1,7 @@
 Este projeto é uma aplicação web que permite aos usuários visualizar e compartilhar receitas de forma simples e intuitiva. Abaixo estão as informações essenciais sobre o projeto, incluindo como configurá-lo e utilizá-lo.
-Tecnologias Utilizadas
+
+<h2> Tecnologias Utilizadas</h2>
+
 HTML
 CSS
 JavaScript
